@@ -1,0 +1,28 @@
+{
+    "featured": [
+        {
+            "id": "nature-forest-01",
+            "title": "宁静森林",
+            "description": "清晨森林中的鸟鸣和微风吹拂树叶的声音",
+            "category": "自然",
+            "audioFile": "sounds/nature/forest-morning.mp3",
+            "image": "images/nature/forest.jpg",
+            "duration": "3:25",
+            "tags": ["森林", "鸟鸣", "自然"]
+        },
+        {
+            "id": "urban-traffic-01",
+            "title": "城市交通",
+            "description": "繁忙十字路口的交通声音",
+            "category": "城市",
+            "audioFile": "sounds/urban/traffic-intersection.mp3",
+            "image": "images/urban/traffic.jpg",
+            "duration": "2:10",
+            "tags": ["城市", "交通", "喧嚣"]
+        }
+    ],
+    "nature": [],
+    "urban": [],
+    "animals": [],
+    "effects": []
+}
