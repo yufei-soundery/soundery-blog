@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soundery - 声音分享平台</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Soundery</h1>
+            <p>探索声音世界</p>
+            <nav>
+                <ul>
+                    <li><a href="#nature">自然声音</a></li>
+                    <li><a href="#urban">城市声音</a></li>
+                    <li><a href="#animals">动物声音</a></li>
+                    <li><a href="#effects">音效</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    
+    <main class="container">
+        <section class="intro">
+            <h2>Welcome to Soundery</h2>
+            <p>这里是一个专注于收集和分享各种声音的平台。从宁静的森林到繁忙的城市，从动物的叫声到独特的音效，探索声音的无限可能。</p>
+        </section>
+        
+        <section id="featured" class="sound-gallery">
+            <h2>精选声音</h2>
+            <div class="sound-grid">
+                <!-- 声音项目将在这里 -->
+            </div>
+        </section>
+        
+        <!-- 其他声音分类部分 -->
+    </main>
+    
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Soundery. 所有声音都受到知识共享许可。</p>
+        </div>
+    </footer>
+    
+    <script src="js/main.js"></script>
+</body>
+</html>
